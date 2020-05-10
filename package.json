@@ -1,0 +1,15 @@
+{
+  "name": "hello-typescript-v1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc -w",
+    "start": "node ./dist/index-aluno.js"
+  },
+  "author": "Rafael",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  }
+}
